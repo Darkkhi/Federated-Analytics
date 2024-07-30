@@ -1,0 +1,9 @@
+Top K Elements: [b'item3' b'item2']
+Counts: [3 2]
+Precision: 0.6666666666666666
+Recall: 0.6666666666666666
+F1 Score: 0.6666666666666666
+False Positive Rates: [<tf.Tensor: shape=(), dtype=float32, numpy=0.9>, <tf.Tensor: shape=(), dtype=float32, numpy=0.7>, <tf.Tensor: shape=(), dtype=float32, numpy=0.4>]
+False Discovery Rates: [<tf.Tensor: shape=(), dtype=float32, numpy=0.3>, <tf.Tensor: shape=(), dtype=float32, numpy=0.23333333>, <tf.Tensor: shape=(), dtype=float32, numpy=0.13333334>]
+Top Elements: [4 3]
+Counts: [4 3]

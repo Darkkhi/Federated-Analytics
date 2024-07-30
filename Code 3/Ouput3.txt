@@ -1,0 +1,9 @@
+Top K Elements (MNIST Labels): [1 7 3 2 9]
+Counts: [6742 6265 6131 5958 5949]
+Precision: 1.0
+Recall: 1.0
+F1 Score: 1.0
+False Positive Rates: [<tf.Tensor: shape=(), dtype=float32, numpy=0.6896167>, <tf.Tensor: shape=(), dtype=float32, numpy=0.49006668>, <tf.Tensor: shape=(), dtype=float32, numpy=0.19666667>]    
+False Discovery Rates: [<tf.Tensor: shape=(), dtype=float32, numpy=0.15483318>, <tf.Tensor: shape=(), dtype=float32, numpy=0.110030085>, <tf.Tensor: shape=(), dtype=float32, numpy=0.044155728>]
+Top Elements: [1. 7. 3. 2. 9.]    
+Counts: [6742 6265 6131 5958 5949]
